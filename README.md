@@ -1,8 +1,10 @@
 # flutter_recorder
 
+This repository contains the flutter code for an audio recorder that runs on iOS and Android.  
+
+Flutter is an open source framework that supports building iOS and Android apps from a single codebase. (https://flutter.dev)
 
 This code is a modification of the code found at https://github.com/hanyska/flutter_audio_recorder2
-
 
 The following is a non-exhaustive list of the changes made in the code for our application.
 
